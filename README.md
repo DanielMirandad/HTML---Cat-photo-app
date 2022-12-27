@@ -5,5 +5,5 @@ HTML tags give a webpage its structure. You can use HTML tags to add photos, but
 
 <div>
 https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white
-	https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white
-  </div>
+https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white
+</div>
